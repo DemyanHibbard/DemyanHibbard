@@ -9,6 +9,8 @@ I'm a recent graduate with a strong interest in cyber security, threat intellige
 ## Featured Project
 
 ### Automated Scam Baiting for Scam Network Reconstruction
+*MEng Dissertation — University of Bristol | 75%*
+
 > Live AI-driven system that autonomously engages email scammers, extracts structured intelligence, and reconstructs probable fraud networks through graph-based analysis.
 
 - 513 live scam conversations processed over 23 days
