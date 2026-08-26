@@ -20,6 +20,13 @@ I'm a recent graduate with a strong interest in cyber security, threat intellige
 
 ---
 
+## Currently Working On
+
+### Network Traffic Analyser
+A Python-based tool for capturing and analysing live network traffic, detecting anomalous patterns and flagging potential threats. Built to develop practical skills in network security and threat detection.
+
+---
+
 ## Other Projects
 - **Distributed Toolchain Integration — National Composites Centre** — A middleware platform that automates the optimisation of engineering components by orchestrating communication between multiple simulation modules across networked machines. The system accepts a component and its requirements as input, dispatches them to simulation software running on separate servers, collects results, adjusts parameters, and iterates until the component is optimised. Built using Java and Spring Boot for the web application layer, MongoDB for parametric and non-parametric data storage, and Python for a simulation API stand-in replicating the NCC's proprietary software. Designed with security requirements in mind given the NCC's client base including BAE Systems, Rolls Royce, and Airbus. Delivered as a group project across a 20-week engagement with regular client check-ins, full technical documentation, and a live handover demo.
 - **Geometa — Multiplayer Top-Down Shooter with Procedurally Generated Real-World Arenas** — A multiplayer top-down ability shooter with procedurally generated arenas built from real-world geographic data. Players select any location in the world via an interactive map interface; the game dynamically generates a hybrid 2D/3D environment at runtime by fetching OpenStreetMap data, generating 3D buildings through a headless Blender pipeline using the BLOSM and Buildify plugins, and rendering 2D terrain features — roads, water, grass, walls — using Unity Sprite Shapes parsed from the same API. Multiplayer synchronisation for up to 12 players was handled via a custom-modified Photon Fusion 2 implementation with client-side prediction and lag-compensated hit detection. A unique shape-based ability system detects geometric formations between teammates in real time and scales ability power based on formation regularity, calculated using a convexity check and angular deviation scoring function. Delivered as a group project of five across 12 weeks using agile sprints, weekly user testing sessions, and a CI pipeline on GitHub.
