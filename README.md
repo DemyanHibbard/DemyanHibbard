@@ -18,7 +18,7 @@ I'm a recent graduate with a strong interest in cyber security, threat intellige
 - 37 high-confidence network connections identified via DBSCAN clustering
 - Bank accounts submitted to an active fraud investigator database
 
-[View Project →](https://github.com/demyanhibbard/)
+[View Project →](https://github.com/demyanhibbard/automated-scam-baiting-for-scam-network-reconstruction)
 
 ---
 
