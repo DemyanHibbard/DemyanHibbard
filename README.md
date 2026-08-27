@@ -43,4 +43,4 @@ A Python-based tool for capturing and analysing live network traffic, detecting 
 
 ---
 
-📫 demyanhibbard@gmail.com | [LinkedIn](https://linkedin.com/in/demyanhibbard)
+demyanhibbard@gmail.com | [LinkedIn](https://linkedin.com/in/demyanhibbard)
